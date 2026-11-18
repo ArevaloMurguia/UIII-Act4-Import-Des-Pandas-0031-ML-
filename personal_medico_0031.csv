@@ -1,0 +1,7 @@
+﻿id_empleado,nombre,especialidad,tipo_contrato,anos_experiencia,consultorio,salario_mensual,pacientes_atendidos_mes,calificacion_pacientes,vacaciones_pendientes
+201,Dr. Ruiz,Cardiologia,Tiempo completo,15,101,45000,120,4.8,5
+202,Dra. Lopez,Pediatria,Tiempo completo,8,102,42000,95,4.9,10
+203,Enf. Garcia,General,Medio tiempo,3,105,18000,200,4.5,2
+204,Dr. Martinez,Neurologia,Tiempo completo,20,103,55000,80,4.7,0
+205,Enf. Torres,Urgencias,Turnos,5,100,22000,150,4.6,4
+206,Dra. Sanchez,Dermatologia,Por consulta,12,104,38000,110,4.9,8
